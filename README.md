@@ -1,4 +1,4 @@
-### tianyi-grub-theme
+# tianyi-grub-theme
 
 This is a grub theme about Chinese VOCALOID singer, Luo Tianyi. 
 

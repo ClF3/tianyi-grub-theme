@@ -24,7 +24,7 @@ terminal-height: "100%"
 
 + label {
   left = 120
-  top = 83%
+  top = 40%
   align = "center"
   id = "__timeout__"
   text = "Selected OS will start in %d seconds"

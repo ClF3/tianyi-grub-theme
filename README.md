@@ -4,7 +4,7 @@ This is a grub theme about Chinese VOCALOID singer, Luo Tianyi.
 
 The picture `background.png` looks like this:
 
-![background.png](https://cloud.clf3.org/index.php/s/iABAmTtYw6dvLDq/download)
+![background.png](https://blog.clf3.org/wp-content/uploads/2024/01/background-1.png)
 
 It uses an artwork of [TID](https://www.pixiv.net/users/418969) and should only be used in non-commercial purposes.
 
